@@ -1,4 +1,4 @@
-# RESTFUL-API-PLANNING
+# RESTFUL-API-PLANNING DOCUMENT
 
 Chosen API | Art Institute of Chicago API - https://api.artic.edu/docs/
 
