@@ -1,7 +1,7 @@
 # RESTFUL-API-PLANNING
 
-Documentation | Art Institute of Chicago API
-Repository: https://github.com/annasaar6/RESTFUL-API-PLANNING
+Chosen API | Art Institute of Chicago API - https://api.artic.edu/docs/
+
 
 
 Step 1: API Selection
