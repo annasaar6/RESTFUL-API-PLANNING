@@ -4,7 +4,7 @@ Chosen API | Art Institute of Chicago API - https://api.artic.edu/docs/
 
 
 
-Step 1: API Selection
+## Step 1: API Selection
 
 The selected public API is the Art Institute of Chicago API. This API provides access to artwork information, artist details, collections, and museum resources. It is suitable for this assignment because it is publicly available, well documented, and returns structured JSON data that can be processed easily in a web application. The purpose of the application is to allow users to search for and explore artwork information through a simple interface.
 
